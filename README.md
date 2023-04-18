@@ -20,6 +20,7 @@ A button that copies the encrypted/decrypted text to the clipboard, with the sam
 
 
 Project in progress.
+
 Last update: 18-04-2023
 
 
